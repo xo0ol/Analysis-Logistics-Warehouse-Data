@@ -1,0 +1,201 @@
+movement_id,timestamp,item_id,item_name,sku,batch_number,quantity,uom,movement_type,source_location_id,source_location_name,destination_location_id,destination_location_name,operator_id,operator_name,reference_document,movement_reason,comments
+MV000001,2024-03-04T08:19:00,ITM-1012,Plastic Storage Bin,SKU-PLB-002,BN-202403A,32,pieces,inbound,,,BIN-17C,"Aisle 5, Bin 17C",OP-003,Dana Patel,PO-20240302-11,replenishment,Morning delivery from supplier
+MV000002,2024-03-04T09:42:15,ITM-1045,Aluminum Sheet Roll,SKU-ALM-019,ALM-2402-B,-5,rolls,outbound,RACK-2B,Rack 2B,,,OP-005,Luke Chang,SO-20240304-04,picking,Dispatched for order 1124
+MV000003,2024-03-04T10:11:00,ITM-1008,Corrugated Box Large,SKU-CBX-003,,100,pieces,inbound,,,BIN-9A,"Aisle 2, Bin 9A",OP-001,Samantha Lee,PO-20240302-06,replenishment,
+MV000004,2024-03-04T10:37:36,ITM-1030,Packing Tape Clear,SKU-PTC-015,PTC-20240301,-24,boxes,outbound,BIN-3E,"Aisle 1, Bin 3E",,,OP-007,Jayden Brooks,SO-20240304-07,picking,For express shipment
+MV000005,2024-03-04T11:02:20,ITM-1024,Blue Pallet,SKU-PAL-001,,12,pallets,inbound,,,DOCK-01,Receiving Dock 01,OP-009,Erika Schmidt,PO-20240301-27,replenishment,
+MV000006,2024-03-04T11:12:43,ITM-1010,Shrink Wrap Film,SKU-SWF-011,SWF-2403C,-6,rolls,outbound,RACK-4C,Rack 4C,,,OP-002,Miguel Rivera,SO-20240304-15,picking,
+MV000007,2024-03-04T11:33:12,ITM-1041,Bubble Wrap Roll,SKU-BWR-005,BWR-202312B,30,rolls,inbound,,,BIN-8G,"Aisle 2, Bin 8G",OP-010,Keisha Thomas,PO-20240303-08,replenishment,
+MV000008,2024-03-04T12:01:44,ITM-1015,Plastic Crate,SKU-PLC-004,,14,pieces,inbound,,,BIN-15F,"Aisle 4, Bin 15F",OP-003,Dana Patel,PO-20240303-13,replenishment,
+MV000009,2024-03-04T12:22:31,ITM-1009,Cardboard Sheet,SKU-CBS-009,CBS-202402E,-90,pieces,outbound,BIN-10B,"Aisle 3, Bin 10B",,,OP-011,Thomas Nguyen,SO-20240304-19,picking,Bulk customer order
+MV000010,2024-03-04T13:05:57,ITM-1035,Foam Corner Protector,SKU-FCP-007,FCP-202401B,48,pieces,inbound,,,BIN-6F,"Aisle 1, Bin 6F",OP-009,Erika Schmidt,PO-20240303-22,replenishment,
+MV000011,2024-03-04T13:15:13,ITM-1021,Steel Drum 50L,SKU-STD-006,,-10,drums,outbound,DOCK-02,Shipping Dock 02,,,OP-004,Brian McCarthy,SO-20240304-21,picking,
+MV000012,2024-03-04T13:37:20,ITM-1002,Small Hardware Box,SKU-SHB-001,SHB-202403C,60,boxes,inbound,,,BIN-2A,"Aisle 1, Bin 2A",OP-012,Olivia White,PO-20240304-02,replenishment,
+MV000013,2024-03-04T14:00:01,ITM-1048,Blue Label Sticker,SKU-LBL-008,LBL-202403A,300,sheets,inbound,,,BIN-12B,"Aisle 3, Bin 12B",OP-006,Isabella Suarez,PO-20240304-09,replenishment,
+MV000014,2024-03-04T14:33:29,ITM-1032,Metal Bracket,SKU-MBR-014,MBR-202403B,-35,pieces,outbound,RACK-1A,Rack 1A,,,OP-008,Sophie Bauer,SO-20240304-24,picking,To be delivered by 3pm
+MV000015,2024-03-04T15:11:10,ITM-1051,Red Safety Cone,SKU-RSC-002,,10,pieces,inbound,,,BIN-21D,"Aisle 6, Bin 21D",OP-010,Keisha Thomas,PO-20240304-14,replenishment,Safety stock
+MV000016,2024-03-04T15:18:55,ITM-1011,White Poly Mailer,SKU-WPM-013,WPM-202403D,-200,pieces,outbound,BIN-18E,"Aisle 5, Bin 18E",,,OP-002,Miguel Rivera,SO-20240304-27,picking,
+MV000017,2024-03-04T15:35:07,ITM-1013,Packing List Envelope,SKU-PLE-002,,15,boxes,inbound,,,BIN-4C,"Aisle 2, Bin 4C",OP-011,Thomas Nguyen,PO-20240304-20,replenishment,
+MV000018,2024-03-04T15:41:29,ITM-1039,Stretch Film Roll,SKU-SFR-010,SFR-202403A,36,rolls,inbound,,,BIN-14D,"Aisle 4, Bin 14D",OP-012,Olivia White,PO-20240304-25,replenishment,
+MV000019,2024-03-04T15:55:17,ITM-1017,Black Utility Knife,SKU-BUK-007,,-7,boxes,outbound,BIN-7B,"Aisle 2, Bin 7B",,,OP-001,Samantha Lee,SO-20240304-32,picking,
+MV000020,2024-03-04T16:13:36,ITM-1052,Brown Kraft Paper,SKU-BKP-003,BKP-202402C,80,rolls,inbound,,,BIN-3B,"Aisle 1, Bin 3B",OP-004,Brian McCarthy,PO-20240304-33,replenishment,
+MV000021,2024-03-04T16:25:01,ITM-1029,Yellow Safety Vest,SKU-YSV-010,,-20,pieces,outbound,BIN-11C,"Aisle 3, Bin 11C",,,OP-005,Luke Chang,SO-20240304-36,picking,Safety event preparation
+MV000022,2024-03-04T16:41:12,ITM-1043,Wood Pallet,SKU-WPL-004,,30,pallets,inbound,,,DOCK-01,Receiving Dock 01,OP-010,Keisha Thomas,PO-20240304-40,replenishment,
+MV000023,2024-03-04T17:02:44,ITM-1042,Large Shipping Label,SKU-LSL-012,LSL-202403A,60,sheets,inbound,,,BIN-20A,"Aisle 6, Bin 20A",OP-003,Dana Patel,PO-20240304-47,replenishment,
+MV000024,2024-03-04T17:19:35,ITM-1006,Brown Carton Tape,SKU-BCT-012,BCT-202403B,-8,boxes,outbound,BIN-5E,"Aisle 2, Bin 5E",,,OP-008,Sophie Bauer,SO-20240304-51,picking,
+MV000025,2024-03-04T17:27:09,ITM-1018,Pallet Jack,SKU-PJK-001,,2,pieces,inbound,,,EQP-01,Equipment Room 1,OP-001,Samantha Lee,PO-20240304-56,replenishment,For new staff
+MV000026,2024-03-04T17:33:58,ITM-1003,Packing Foam Sheet,SKU-PFS-006,PFS-202403C,120,sheets,inbound,,,BIN-16G,"Aisle 5, Bin 16G",OP-012,Olivia White,PO-20240304-61,replenishment,
+MV000027,2024-03-04T17:42:20,ITM-1027,Orange Warning Tape,SKU-OWT-002,OWT-202402A,-12,rolls,outbound,BIN-13A,"Aisle 4, Bin 13A",,,OP-007,Jayden Brooks,SO-20240304-66,picking,
+MV000028,2024-03-04T17:55:12,ITM-1016,White Mailing Tube,SKU-WMT-001,WMT-202403A,24,tubes,inbound,,,BIN-18A,"Aisle 5, Bin 18A",OP-011,Thomas Nguyen,PO-20240304-71,replenishment,
+MV000029,2024-03-04T18:11:43,ITM-1050,Plastic Strapping Reel,SKU-STR-013,,8,reels,inbound,,,BIN-22F,"Aisle 6, Bin 22F",OP-009,Erika Schmidt,PO-20240304-76,replenishment,
+MV000030,2024-03-04T18:27:30,ITM-1046,Red Fragile Label,SKU-RFL-009,RFL-202403A,-50,sheets,outbound,BIN-19C,"Aisle 5, Bin 19C",,,OP-006,Isabella Suarez,SO-20240304-80,picking,
+MV000031,2024-03-04T18:49:13,ITM-1049,Wire Mesh Bin,SKU-WMB-005,WMB-202403A,6,pieces,inbound,,,BIN-21B,"Aisle 6, Bin 21B",OP-008,Sophie Bauer,PO-20240304-84,replenishment,
+MV000032,2024-03-04T19:13:25,ITM-1005,Yellow Caution Tape,SKU-YCT-004,,-30,rolls,outbound,BIN-20C,"Aisle 6, Bin 20C",,,OP-005,Luke Chang,SO-20240304-89,picking,
+MV000033,2024-03-04T19:21:50,ITM-1025,Black Marker Pen,SKU-BMP-002,BMP-202403A,48,boxes,inbound,,,BIN-3C,"Aisle 1, Bin 3C",OP-001,Samantha Lee,PO-20240304-90,replenishment,
+MV000034,2024-03-04T19:39:17,ITM-1036,Rubber Floor Mat,SKU-RFM-011,,-15,pieces,outbound,BIN-8E,"Aisle 2, Bin 8E",,,OP-012,Olivia White,SO-20240304-92,picking,
+MV000035,2024-03-04T19:44:45,ITM-1033,Steel Bin Divider,SKU-SBD-003,SBD-202403A,100,pieces,inbound,,,BIN-7C,"Aisle 2, Bin 7C",OP-004,Brian McCarthy,PO-20240304-97,replenishment,Large batch
+MV000036,2024-03-04T20:01:52,ITM-1031,Clear Stretch Wrap,SKU-CSW-014,,-10,rolls,outbound,BIN-2F,"Aisle 1, Bin 2F",,,OP-006,Isabella Suarez,SO-20240304-99,picking,
+MV000037,2024-03-04T20:21:16,ITM-1028,Industrial Gloves,SKU-IGL-003,IGL-202403A,72,pairs,inbound,,,BIN-5D,"Aisle 2, Bin 5D",OP-007,Jayden Brooks,PO-20240304-105,replenishment,
+MV000038,2024-03-04T20:30:00,ITM-1047,Yellow Fragile Label,SKU-YFL-006,YFL-202403A,-60,sheets,outbound,BIN-22A,"Aisle 6, Bin 22A",,,OP-003,Dana Patel,SO-20240304-110,picking,
+MV000039,2024-03-04T20:47:14,ITM-1026,Whiteboard Marker,SKU-WBM-005,,20,boxes,inbound,,,BIN-11A,"Aisle 3, Bin 11A",OP-002,Miguel Rivera,PO-20240304-112,replenishment,
+MV000040,2024-03-04T21:01:03,ITM-1044,Foam Edge Guard,SKU-FEG-003,FEG-202403A,84,meters,inbound,,,BIN-10D,"Aisle 3, Bin 10D",OP-008,Sophie Bauer,PO-20240304-119,replenishment,
+MV000041,2024-03-04T21:19:48,ITM-1001,Standard Pallet,SKU-STP-001,,20,pallets,inbound,,,DOCK-01,Receiving Dock 01,OP-010,Keisha Thomas,PO-20240304-124,replenishment,
+MV000042,2024-03-04T21:31:29,ITM-1007,Brown Corrugated Sheet,SKU-BCS-008,BCS-202403A,-70,sheets,outbound,BIN-9D,"Aisle 2, Bin 9D",,,OP-011,Thomas Nguyen,SO-20240304-129,picking,
+MV000043,2024-03-04T21:47:03,ITM-1053,Blue Pallet Band,SKU-BPB-003,BPB-202403A,100,bands,inbound,,,BIN-24A,"Aisle 7, Bin 24A",OP-009,Erika Schmidt,PO-20240304-132,replenishment,
+MV000044,2024-03-04T22:02:12,ITM-1038,Green Safety Tape,SKU-GST-004,,-18,rolls,outbound,BIN-16A,"Aisle 5, Bin 16A",,,OP-007,Jayden Brooks,SO-20240304-137,picking,
+MV000045,2024-03-04T22:19:03,ITM-1019,Plastic Tote,SKU-PLT-010,PLT-202403A,18,pieces,inbound,,,BIN-23D,"Aisle 7, Bin 23D",OP-005,Luke Chang,PO-20240304-140,replenishment,
+MV000046,2024-03-04T22:31:31,ITM-1022,Clear Packing Tape,SKU-CPT-009,CPT-202403B,-40,boxes,outbound,BIN-6B,"Aisle 1, Bin 6B",,,OP-002,Miguel Rivera,SO-20240304-145,picking,
+MV000047,2024-03-04T22:47:29,ITM-1054,Orange Pallet Band,SKU-OPB-005,,60,bands,inbound,,,BIN-24B,"Aisle 7, Bin 24B",OP-001,Samantha Lee,PO-20240304-149,replenishment,
+MV000048,2024-03-04T23:01:54,ITM-1020,Black Pallet,SKU-BLP-013,,-3,pallets,outbound,DOCK-02,Shipping Dock 02,,,OP-006,Isabella Suarez,SO-20240304-153,picking,
+MV000049,2024-03-04T23:11:12,ITM-1037,Green Crate,SKU-GCR-002,GCR-202403A,22,pieces,inbound,,,BIN-23C,"Aisle 7, Bin 23C",OP-012,Olivia White,PO-20240304-157,replenishment,
+MV000050,2024-03-04T23:19:49,ITM-1004,Large Hardware Box,SKU-LHB-009,,-5,boxes,outbound,BIN-14E,"Aisle 4, Bin 14E",,,OP-003,Dana Patel,SO-20240304-160,picking,
+MV20240516-5001,2024-05-16T08:15:23,ITM-0231,Stainless Steel Bolt M8,SSB-M8-100,B2308A,150,pieces,inbound,,,BIN-12A,Aisle 1 Bin 2A,OPR-102,Emily Carter,PO-49012,replenishment,Received from supplier.
+MV20240516-5002,2024-05-16T09:05:42,ITM-0147,Plastic Storage Bin Large,PSB-LG-01,,-12,pieces,outbound,BIN-7C,Aisle 3 Bin 7C,,,OPR-115,Samir Patel,SO-22188,picking,Order for customer 1123.
+MV20240516-5003,2024-05-16T09:23:11,ITM-0089,Aluminum Sheet 2mm,ALSH-2MM-10,A1624F,1,pallets,transfer,DOCK-01,Receiving Dock,AISLE-5,Aisle 5 Storage,OPR-109,Linda Nguyen,TO-30028,replenishment,Transferred after receipt.
+MV20240516-5004,2024-05-16T09:35:06,ITM-0312,Blue Nitrile Gloves Box (100ct),BNG-100B,GL202405,30,boxes,inbound,,,BIN-3D,Aisle 2 Bin 3D,OPR-112,Robert Shaw,PO-49013,replenishment,
+MV20240516-5005,2024-05-16T10:10:48,ITM-0178,Packing Tape 48mm x 100m,PT48-100M,,24,rolls,inbound,,,BIN-5B,Aisle 1 Bin 5B,OPR-101,Megan Lee,PO-49014,replenishment,
+MV20240516-5006,2024-05-16T10:25:17,ITM-0231,Stainless Steel Bolt M8,SSB-M8-100,B2308A,-80,pieces,outbound,BIN-12A,Aisle 1 Bin 2A,,,OPR-116,Diana Vasquez,SO-22189,picking,Picked for order 22189.
+MV20240516-5007,2024-05-16T10:40:33,ITM-0147,Plastic Storage Bin Large,PSB-LG-01,,5,pieces,adjustment,BIN-7C,Aisle 3 Bin 7C,BIN-7C,Aisle 3 Bin 7C,OPR-111,Carlos Jimenez,,cycle count,Inventory count correction.
+MV20240516-5008,2024-05-16T11:00:12,ITM-0231,Stainless Steel Bolt M8,SSB-M8-100,B2308A,50,pieces,return,,,BIN-12A,Aisle 1 Bin 2A,OPR-117,Jessica Tran,SR-7432,customer return,Customer returned unused bolts.
+MV20240516-5009,2024-05-16T11:25:47,ITM-0420,Red Industrial Mop Head,RIM-H01,,-15,pieces,outbound,BIN-9F,Aisle 4 Bin 9F,,,OPR-103,Ben Miller,SO-22190,picking,Urgent shipment.
+MV20240516-5010,2024-05-16T11:37:19,ITM-0089,Aluminum Sheet 2mm,ALSH-2MM-10,A1624F,-1,pallets,transfer,AISLE-5,Aisle 5 Storage,DOCK-03,Shipping Dock,OPR-105,Martha Jacobs,TO-30029,shipping,Transferred for outbound shipment.
+MV20240516-5011,2024-05-16T12:00:59,ITM-0178,Packing Tape 48mm x 100m,PT48-100M,,-6,rolls,outbound,BIN-5B,Aisle 1 Bin 5B,,,OPR-101,Megan Lee,SO-22191,picking,
+MV20240516-5012,2024-05-16T12:24:31,ITM-0609,Safety Glasses Clear Lens,SGL-CLR-202,SG20240516,36,pieces,inbound,,,BIN-2B,Aisle 2 Bin 2B,OPR-120,Jorge Martinez,PO-49015,replenishment,
+MV20240516-5013,2024-05-16T12:49:20,ITM-0231,Stainless Steel Bolt M8,SSB-M8-100,B2308A,-25,pieces,adjustment,BIN-12A,Aisle 1 Bin 2A,BIN-12A,Aisle 1 Bin 2A,OPR-102,Emily Carter,,damage,Lost due to damage.
+MV20240516-5014,2024-05-16T13:18:40,ITM-0312,Blue Nitrile Gloves Box (100ct),BNG-100B,GL202405,-10,boxes,outbound,BIN-3D,Aisle 2 Bin 3D,,,OPR-113,Jackie Lin,SO-22192,picking,
+MV20240516-5015,2024-05-16T13:35:00,ITM-0609,Safety Glasses Clear Lens,SGL-CLR-202,SG20240516,-8,pieces,outbound,BIN-2B,Aisle 2 Bin 2B,,,OPR-120,Jorge Martinez,SO-22193,picking,Shipped for urgent order.
+MV20240516-5016,2024-05-16T14:10:16,ITM-0420,Red Industrial Mop Head,RIM-H01,,30,pieces,inbound,,,BIN-9F,Aisle 4 Bin 9F,OPR-103,Ben Miller,PO-49016,replenishment,
+MV20240516-5017,2024-05-16T14:29:59,ITM-0147,Plastic Storage Bin Large,PSB-LG-01,,3,pieces,return,,,BIN-7C,Aisle 3 Bin 7C,OPR-115,Samir Patel,SR-7433,customer return,
+MV20240516-5018,2024-05-16T15:01:45,ITM-0089,Aluminum Sheet 2mm,ALSH-2MM-10,A1624F,1,pallets,adjustment,AISLE-5,Aisle 5 Storage,AISLE-5,Aisle 5 Storage,OPR-109,Linda Nguyen,,cycle count,
+MV20240516-5019,2024-05-16T15:29:27,ITM-0312,Blue Nitrile Gloves Box (100ct),BNG-100B,GL202405,5,boxes,adjustment,BIN-3D,Aisle 2 Bin 3D,BIN-3D,Aisle 2 Bin 3D,OPR-112,Robert Shaw,,cycle count,Counted overage.
+MV20240516-5020,2024-05-16T15:48:35,ITM-0178,Packing Tape 48mm x 100m,PT48-100M,,-2,rolls,adjustment,BIN-5B,Aisle 1 Bin 5B,BIN-5B,Aisle 1 Bin 5B,OPR-101,Megan Lee,,damage,
+MV20240516-5021,2024-05-16T16:12:22,ITM-0609,Safety Glasses Clear Lens,SGL-CLR-202,SG20240516,10,pieces,return,,,BIN-2B,Aisle 2 Bin 2B,OPR-120,Jorge Martinez,SR-7434,customer return,
+MV20240516-5022,2024-05-16T16:25:18,ITM-0420,Red Industrial Mop Head,RIM-H01,,-2,pieces,adjustment,BIN-9F,Aisle 4 Bin 9F,BIN-9F,Aisle 4 Bin 9F,OPR-103,Ben Miller,,damage,Damaged during storage.
+MV20240516-5023,2024-05-16T16:53:44,ITM-0147,Plastic Storage Bin Large,PSB-LG-01,,-4,pieces,adjustment,BIN-7C,Aisle 3 Bin 7C,BIN-7C,Aisle 3 Bin 7C,OPR-111,Carlos Jimenez,,damage,
+MV20240516-5024,2024-05-16T17:12:59,ITM-0231,Stainless Steel Bolt M8,SSB-M8-100,B2308A,20,pieces,inbound,,,BIN-12A,Aisle 1 Bin 2A,OPR-117,Jessica Tran,PO-49017,replenishment,
+MV20240516-5025,2024-05-17T08:20:13,ITM-0089,Aluminum Sheet 2mm,ALSH-2MM-10,A1624F,-1,pallets,transfer,AISLE-5,Aisle 5 Storage,DOCK-04,Shipping Dock,OPR-105,Martha Jacobs,TO-30030,shipping,
+MV20240516-5026,2024-05-17T08:44:55,ITM-0312,Blue Nitrile Gloves Box (100ct),BNG-100B,GL202405,20,boxes,inbound,,,BIN-3D,Aisle 2 Bin 3D,OPR-113,Jackie Lin,PO-49018,replenishment,
+MV20240516-5027,2024-05-17T09:09:38,ITM-0420,Red Industrial Mop Head,RIM-H01,,-10,pieces,outbound,BIN-9F,Aisle 4 Bin 9F,,,OPR-103,Ben Miller,SO-22194,picking,
+MV20240516-5028,2024-05-17T09:23:25,ITM-0178,Packing Tape 48mm x 100m,PT48-100M,,12,rolls,inbound,,,BIN-5B,Aisle 1 Bin 5B,OPR-116,Diana Vasquez,PO-49019,replenishment,
+MV20240516-5029,2024-05-17T09:41:02,ITM-0609,Safety Glasses Clear Lens,SGL-CLR-202,SG20240516,-4,pieces,adjustment,BIN-2B,Aisle 2 Bin 2B,BIN-2B,Aisle 2 Bin 2B,OPR-120,Jorge Martinez,,damage,Broken during cleaning.
+MV20240516-5030,2024-05-17T10:03:19,ITM-0312,Blue Nitrile Gloves Box (100ct),BNG-100B,GL202405,-3,boxes,adjustment,BIN-3D,Aisle 2 Bin 3D,BIN-3D,Aisle 2 Bin 3D,OPR-113,Jackie Lin,,damage,
+MV20240516-5031,2024-05-17T10:22:44,ITM-0089,Aluminum Sheet 2mm,ALSH-2MM-10,A1624F,1,pallets,inbound,,,AISLE-5,Aisle 5 Storage,OPR-105,Martha Jacobs,PO-49020,replenishment,
+MV20240516-5032,2024-05-17T10:47:19,ITM-0231,Stainless Steel Bolt M8,SSB-M8-100,B2308A,-30,pieces,outbound,BIN-12A,Aisle 1 Bin 2A,,,OPR-102,Emily Carter,SO-22195,picking,
+MV20240516-5033,2024-05-17T11:12:05,ITM-0147,Plastic Storage Bin Large,PSB-LG-01,,8,pieces,inbound,,,BIN-7C,Aisle 3 Bin 7C,OPR-115,Samir Patel,PO-49021,replenishment,
+MV20240516-5034,2024-05-17T11:23:40,ITM-0420,Red Industrial Mop Head,RIM-H01,,18,pieces,inbound,,,BIN-9F,Aisle 4 Bin 9F,OPR-103,Ben Miller,PO-49022,replenishment,
+MV20240516-5035,2024-05-17T11:34:55,ITM-0178,Packing Tape 48mm x 100m,PT48-100M,,-5,rolls,outbound,BIN-5B,Aisle 1 Bin 5B,,,OPR-116,Diana Vasquez,SO-22196,picking,
+MV20240516-5036,2024-05-17T11:52:21,ITM-0609,Safety Glasses Clear Lens,SGL-CLR-202,SG20240516,20,pieces,inbound,,,BIN-2B,Aisle 2 Bin 2B,OPR-120,Jorge Martinez,PO-49023,replenishment,
+MV20240516-5037,2024-05-17T12:10:33,ITM-0231,Stainless Steel Bolt M8,SSB-M8-100,B2308A,10,pieces,return,,,BIN-12A,Aisle 1 Bin 2A,OPR-117,Jessica Tran,SR-7435,customer return,
+MV20240516-5038,2024-05-17T12:36:01,ITM-0312,Blue Nitrile Gloves Box (100ct),BNG-100B,GL202405,-8,boxes,outbound,BIN-3D,Aisle 2 Bin 3D,,,OPR-112,Robert Shaw,SO-22197,picking,
+MV20240516-5039,2024-05-17T12:48:17,ITM-0420,Red Industrial Mop Head,RIM-H01,,5,pieces,return,,,BIN-9F,Aisle 4 Bin 9F,OPR-103,Ben Miller,SR-7436,customer return,
+MV20240516-5040,2024-05-17T13:13:40,ITM-0147,Plastic Storage Bin Large,PSB-LG-01,,-7,pieces,outbound,BIN-7C,Aisle 3 Bin 7C,,,OPR-111,Carlos Jimenez,SO-22198,picking,
+MV20240516-5041,2024-05-17T13:35:51,ITM-0178,Packing Tape 48mm x 100m,PT48-100M,,8,rolls,inbound,,,BIN-5B,Aisle 1 Bin 5B,OPR-101,Megan Lee,PO-49024,replenishment,
+MV20240516-5042,2024-05-17T13:58:22,ITM-0609,Safety Glasses Clear Lens,SGL-CLR-202,SG20240516,-12,pieces,outbound,BIN-2B,Aisle 2 Bin 2B,,,OPR-120,Jorge Martinez,SO-22199,picking,
+MV20240516-5043,2024-05-17T14:23:09,ITM-0089,Aluminum Sheet 2mm,ALSH-2MM-10,A1624F,1,pallets,return,,,AISLE-5,Aisle 5 Storage,OPR-109,Linda Nguyen,SR-7437,customer return,
+MV20240516-5044,2024-05-17T14:33:51,ITM-0147,Plastic Storage Bin Large,PSB-LG-01,,4,pieces,adjustment,BIN-7C,Aisle 3 Bin 7C,BIN-7C,Aisle 3 Bin 7C,OPR-111,Carlos Jimenez,,cycle count,
+MV20240516-5045,2024-05-17T14:51:10,ITM-0178,Packing Tape 48mm x 100m,PT48-100M,,-3,rolls,adjustment,BIN-5B,Aisle 1 Bin 5B,BIN-5B,Aisle 1 Bin 5B,OPR-101,Megan Lee,,damage,Spoiled adhesive.
+MV20240516-5046,2024-05-17T15:14:45,ITM-0420,Red Industrial Mop Head,RIM-H01,,6,pieces,adjustment,BIN-9F,Aisle 4 Bin 9F,BIN-9F,Aisle 4 Bin 9F,OPR-103,Ben Miller,,cycle count,
+MV20240516-5047,2024-05-17T15:36:18,ITM-0312,Blue Nitrile Gloves Box (100ct),BNG-100B,GL202405,10,boxes,return,,,BIN-3D,Aisle 2 Bin 3D,OPR-113,Jackie Lin,SR-7438,customer return,
+MV20240516-5048,2024-05-17T15:53:22,ITM-0609,Safety Glasses Clear Lens,SGL-CLR-202,SG20240516,5,pieces,adjustment,BIN-2B,Aisle 2 Bin 2B,BIN-2B,Aisle 2 Bin 2B,OPR-120,Jorge Martinez,,cycle count,
+MV20240516-5049,2024-05-17T16:11:30,ITM-0178,Packing Tape 48mm x 100m,PT48-100M,,-4,rolls,outbound,BIN-5B,Aisle 1 Bin 5B,,,OPR-116,Diana Vasquez,SO-22200,picking,
+MV20240516-5050,2024-05-17T16:29:44,ITM-0089,Aluminum Sheet 2mm,ALSH-2MM-10,A1624F,-1,pallets,adjustment,AISLE-5,Aisle 5 Storage,AISLE-5,Aisle 5 Storage,OPR-105,Martha Jacobs,,damage,
+MV3001,2023-10-02T08:13:28,ITM-0214,40W LED Bulb,LB-40W-110,B20231002A,110,pieces,inbound,,,A1-B2-05,Aisle 1 Bin 5,OP-1003,Gary Lin,PO-2391,replenishment,
+MV3002,2023-10-02T09:20:16,ITM-0392,Premium Packing Tape,PT-75-CLR,B20231002B,-60,rolls,outbound,B2-C1-07,Aisle 2 Bin 7,,,OP-1012,Rachel White,SO-2210,picking,Urgent outbound
+MV3003,2023-10-02T10:45:43,ITM-0117,Multi-Outlet Extension,EX-4SP-10,B20230930D,42,boxes,inbound,,,C3-D4-03,Aisle 3 Bin 3,OP-1008,Laura Chen,PO-2387,replenishment,
+MV3004,2023-10-02T11:03:10,ITM-0083,Heavy Duty Carton,CT-HD-23,,-90,pieces,outbound,D1-A3-09,Aisle 1 Bin 9,,,OP-1002,Samira Patel,SO-2208,picking,For customer 6541
+MV3005,2023-10-02T11:18:58,ITM-0249,Industrial Gloves,GL-IND-XL,B20230928A,24,packs,inbound,,,B2-D5-01,Aisle 2 Bin 1,OP-1005,Carlos Reyes,PO-2397,replenishment,
+MV3006,2023-10-02T12:06:34,ITM-0135,Bubble Wrap 50m,BW-50M-CLR,,-8,rolls,outbound,A1-D2-06,Aisle 1 Bin 6,,,OP-1004,Ellen Wu,SO-2211,picking,
+MV3007,2023-10-02T13:22:16,ITM-0157,Cable Ties Assorted,CBT-ASST-500,B20230915C,60,packs,return,,,E3-B4-08,Aisle 3 Bin 8,OP-1010,Fatima Zahra,RTN-1078,customer return,Customer returned unopened
+MV3008,2023-10-02T14:06:43,ITM-0322,Plastic Pallet Blue,PLT-BLU-120,,4,pallets,inbound,,,P1-PLT-01,Pallet Zone 1,OP-1001,David Kim,PO-2401,replenishment,
+MV3009,2023-10-02T14:22:11,ITM-0194,Hand Sanitizer 500ml,HS-500ML,B20231001B,-30,bottles,outbound,A2-B6-04,Aisle 2 Bin 4,,,OP-1006,Jorge Estevez,SO-2213,picking,
+MV3010,2023-10-02T15:07:20,ITM-0202,Mask N95,MSK-N95,B20230925B,-200,pieces,outbound,D3-C7-11,Aisle 3 Bin 11,,,OP-1002,Samira Patel,SO-2214,picking,Large customer order
+MV3011,2023-10-02T15:42:29,ITM-0182,Shipping Labels 4x6,LBL-4X6-1000,,6,boxes,adjustment,B3-C4-02,Aisle 3 Bin 2,B3-C4-02,Aisle 3 Bin 2,OP-1007,Marcus Ng,,cycle count,Stock count found surplus
+MV3012,2023-10-02T16:10:41,ITM-0250,Packing Peanuts,PKG-PNTS-5KG,B20230929A,5,bags,inbound,,,S2-B1-10,Aisle 2 Bin 10,OP-1009,Sophie Tran,PO-2399,replenishment,
+MV3013,2023-10-03T08:17:44,ITM-0171,Thermal Paper Roll,TPR-80-50,,-100,rolls,outbound,C2-B1-04,Aisle 2 Bin 4,,,OP-1009,Sophie Tran,SO-2215,picking,
+MV3014,2023-10-03T09:22:35,ITM-0115,Safety Vest Yellow,SV-YEL-XL,B20230919C,20,pieces,return,,,G1-A2-03,Aisle 1 Bin 3,OP-1011,Brenda Chu,RTN-1081,customer return,
+MV3015,2023-10-03T10:01:09,ITM-0274,Steel Shelving Unit,SH-STL-1800,,2,pieces,inbound,,,R1-A1-12,Aisle 1 Bin 12,OP-1012,Rachel White,PO-2402,replenishment,
+MV3016,2023-10-03T10:14:53,ITM-0377,"Shrink Film 18""",SF-18-CLR,B20231003A,10,rolls,inbound,,,D2-C2-07,Aisle 2 Bin 7,OP-1008,Laura Chen,PO-2404,replenishment,
+MV3017,2023-10-03T11:30:36,ITM-0146,Cardboard Box L,CB-L-60,,-40,boxes,outbound,E2-D5-12,Aisle 2 Bin 12,,,OP-1003,Gary Lin,SO-2217,picking,
+MV3018,2023-10-03T11:56:21,ITM-0352,Plastic Bin Blue,BIN-BLU-40,B20230930C,5,pieces,adjustment,C1-A5-06,Aisle 1 Bin 6,C1-A5-06,Aisle 1 Bin 6,OP-1010,Fatima Zahra,,cycle count,Inventory correction
+MV3019,2023-10-03T12:12:22,ITM-0135,Bubble Wrap 50m,BW-50M-CLR,,7,rolls,adjustment,A1-D2-06,Aisle 1 Bin 6,A1-D2-06,Aisle 1 Bin 6,OP-1004,Ellen Wu,,cycle count,Adjusted after cycle count
+MV3020,2023-10-03T13:35:51,ITM-0250,Packing Peanuts,PKG-PNTS-5KG,,-1,bags,adjustment,S2-B1-10,Aisle 2 Bin 10,S2-B1-10,Aisle 2 Bin 10,OP-1009,Sophie Tran,,damage,Bag torn
+MV3021,2023-10-03T14:12:43,ITM-0281,Stretch Wrap Black,SW-BLK-50,B20230927A,8,rolls,inbound,,,D2-B4-02,Aisle 2 Bin 2,OP-1011,Brenda Chu,PO-2405,replenishment,
+MV3022,2023-10-03T15:33:09,ITM-0339,Pallet Jack,PJ-2500KG,,1,pieces,transfer,P1-PLT-01,Pallet Zone 1,P2-PLT-05,Pallet Zone 2,OP-1006,Jorge Estevez,TRF-3022,reallocation,Moved to new pallet zone
+MV3023,2023-10-03T16:04:17,ITM-0344,Paper Shredder,SHD-12L,,2,pieces,inbound,,,A3-B3-10,Aisle 3 Bin 10,OP-1003,Gary Lin,PO-2407,replenishment,
+MV3024,2023-10-04T08:09:23,ITM-0191,Packing List Envelope,PLE-1000,,-100,packs,outbound,B4-D3-04,Aisle 4 Bin 4,,,OP-1007,Marcus Ng,SO-2218,picking,
+MV3025,2023-10-04T09:11:44,ITM-0362,Clear Tape 2in,TP-CLR-2IN,B20231002B,48,rolls,inbound,,,B1-C2-11,Aisle 1 Bin 11,OP-1005,Carlos Reyes,PO-2410,replenishment,
+MV3026,2023-10-04T10:29:22,ITM-0316,Barcode Scanner,BSC-USB-02,,3,pieces,transfer,A1-B2-05,Aisle 1 Bin 5,E1-D3-09,Aisle 1 Bin 9,OP-1005,Carlos Reyes,TRF-3026,reallocation,
+MV3027,2023-10-04T11:43:51,ITM-0117,Multi-Outlet Extension,EX-4SP-10,,-15,boxes,outbound,C3-D4-03,Aisle 3 Bin 3,,,OP-1008,Laura Chen,SO-2220,picking,
+MV3028,2023-10-04T12:15:14,ITM-0339,Pallet Jack,PJ-2500KG,,2,pieces,transfer,P2-PLT-05,Pallet Zone 2,P3-PLT-03,Pallet Zone 3,OP-1006,Jorge Estevez,TRF-3028,reallocation,Moved for maintenance
+MV3029,2023-10-04T13:29:39,ITM-0377,"Shrink Film 18""",SF-18-CLR,,-5,rolls,outbound,D2-C2-07,Aisle 2 Bin 7,,,OP-1008,Laura Chen,SO-2221,picking,
+MV3030,2023-10-04T13:51:27,ITM-0146,Cardboard Box L,CB-L-60,B20230918B,30,boxes,return,,,E2-D5-12,Aisle 2 Bin 12,OP-1003,Gary Lin,RTN-1090,customer return,Customer changed mind
+MV3031,2023-10-04T14:19:45,ITM-0194,Hand Sanitizer 500ml,HS-500ML,,3,bottles,adjustment,A2-B6-04,Aisle 2 Bin 4,A2-B6-04,Aisle 2 Bin 4,OP-1006,Jorge Estevez,,cycle count,Found extra bottles
+MV3032,2023-10-04T15:06:17,ITM-0352,Plastic Bin Blue,BIN-BLU-40,,-2,pieces,adjustment,C1-A5-06,Aisle 1 Bin 6,C1-A5-06,Aisle 1 Bin 6,OP-1010,Fatima Zahra,,damage,Cracked bins
+MV3033,2023-10-04T15:52:44,ITM-0249,Industrial Gloves,GL-IND-XL,,-12,packs,outbound,B2-D5-01,Aisle 2 Bin 1,,,OP-1005,Carlos Reyes,SO-2224,picking,
+MV3034,2023-10-05T08:14:35,ITM-0392,Premium Packing Tape,PT-75-CLR,,18,rolls,return,,,B2-C1-07,Aisle 2 Bin 7,OP-1012,Rachel White,RTN-1092,customer return,Damaged in transit
+MV3035,2023-10-05T09:11:00,ITM-0115,Safety Vest Yellow,SV-YEL-XL,,-5,pieces,adjustment,G1-A2-03,Aisle 1 Bin 3,G1-A2-03,Aisle 1 Bin 3,OP-1011,Brenda Chu,,damage,Torn vests
+MV3036,2023-10-05T10:21:10,ITM-0281,Stretch Wrap Black,SW-BLK-50,,-12,rolls,outbound,D2-B4-02,Aisle 2 Bin 2,,,OP-1011,Brenda Chu,SO-2227,picking,
+MV3037,2023-10-05T11:04:42,ITM-0344,Paper Shredder,SHD-12L,,1,pieces,transfer,A3-B3-10,Aisle 3 Bin 10,D1-A3-09,Aisle 1 Bin 9,OP-1002,Samira Patel,TRF-3037,reallocation,
+MV3038,2023-10-05T12:13:22,ITM-0182,Shipping Labels 4x6,LBL-4X6-1000,,-4,boxes,adjustment,B3-C4-02,Aisle 3 Bin 2,B3-C4-02,Aisle 3 Bin 2,OP-1007,Marcus Ng,,cycle count,Shortage found
+MV3039,2023-10-05T13:22:17,ITM-0202,Mask N95,MSK-N95,,50,pieces,inbound,,,D3-C7-11,Aisle 3 Bin 11,OP-1002,Samira Patel,PO-2411,replenishment,
+MV3040,2023-10-05T13:39:38,ITM-0274,Steel Shelving Unit,SH-STL-1800,,-1,pieces,outbound,R1-A1-12,Aisle 1 Bin 12,,,OP-1012,Rachel White,SO-2228,picking,
+MV3041,2023-10-05T14:02:22,ITM-0135,Bubble Wrap 50m,BW-50M-CLR,,1,rolls,adjustment,A1-D2-06,Aisle 1 Bin 6,A1-D2-06,Aisle 1 Bin 6,OP-1004,Ellen Wu,,cycle count,Spare roll found
+MV3042,2023-10-05T15:37:33,ITM-0117,Multi-Outlet Extension,EX-4SP-10,B20230930D,10,boxes,transfer,C3-D4-03,Aisle 3 Bin 3,E1-D3-09,Aisle 1 Bin 9,OP-1008,Laura Chen,TRF-3042,reallocation,
+MV3043,2023-10-05T16:10:44,ITM-0250,Packing Peanuts,PKG-PNTS-5KG,,2,bags,transfer,S2-B1-10,Aisle 2 Bin 10,A3-B3-10,Aisle 3 Bin 10,OP-1009,Sophie Tran,TRF-3043,reallocation,
+MV3044,2023-10-06T08:03:21,ITM-0191,Packing List Envelope,PLE-1000,,50,packs,inbound,,,B4-D3-04,Aisle 4 Bin 4,OP-1007,Marcus Ng,PO-2412,replenishment,
+MV3045,2023-10-06T09:10:15,ITM-0362,Clear Tape 2in,TP-CLR-2IN,,-24,rolls,outbound,B1-C2-11,Aisle 1 Bin 11,,,OP-1005,Carlos Reyes,SO-2230,picking,
+MV3046,2023-10-06T10:12:49,ITM-0322,Plastic Pallet Blue,PLT-BLU-120,,1,pallets,transfer,P1-PLT-01,Pallet Zone 1,P3-PLT-03,Pallet Zone 3,OP-1001,David Kim,TRF-3046,reallocation,
+MV3047,2023-10-06T11:38:11,ITM-0157,Cable Ties Assorted,CBT-ASST-500,,-15,packs,outbound,E3-B4-08,Aisle 3 Bin 8,,,OP-1010,Fatima Zahra,SO-2231,picking,
+MV3048,2023-10-06T12:13:53,ITM-0214,40W LED Bulb,LB-40W-110,,35,pieces,return,,,A1-B2-05,Aisle 1 Bin 5,OP-1003,Gary Lin,RTN-1095,customer return,
+MV3049,2023-10-06T13:47:08,ITM-0344,Paper Shredder,SHD-12L,,-1,pieces,adjustment,D1-A3-09,Aisle 1 Bin 9,D1-A3-09,Aisle 1 Bin 9,OP-1002,Samira Patel,,damage,Broken on arrival
+MV3050,2023-10-06T15:04:15,ITM-0316,Barcode Scanner,BSC-USB-02,,1,pieces,inbound,,,A1-B2-05,Aisle 1 Bin 5,OP-1005,Carlos Reyes,PO-2414,replenishment,
+MV4001,2024-04-01T09:12:28,IT1435,Plastic Crate Blue,PCR-BLU-104,B23014,80,pieces,inbound,,,BIN-33B,Bin 33B,EMP253,Karen Simmons,PO-9021,replenishment,
+MV4002,2024-04-01T10:34:55,IT1550,Aluminum Tube 1m,ALT-1000-09,,-15,pieces,outbound,AIS-7D,Aisle 7D,,,EMP267,Sandeep Kumar,SO-4472,picking,Order for customer 5001
+MV4003,2024-04-01T11:16:07,IT1483,Cardboard Pallet,CPAL-010,,5,pallets,inbound,,,DOCK-02,Receiving Dock 2,EMP202,Luisa Romero,PO-9025,replenishment,Supplier delivered full
+MV4004,2024-04-01T12:22:29,IT1205,LED Bulb E27,LEDB-E27-25W,L20240401,30,boxes,inbound,,,AIS-1A,Aisle 1A,EMP267,Sandeep Kumar,PO-9027,replenishment,Bulk order
+MV4005,2024-04-01T13:02:12,IT1671,Rubber Washer 10mm,RW-10MM,RW20240312,-40,boxes,outbound,BIN-12C,Bin 12C,,,EMP299,Paul J. Beck,SO-4479,picking,
+MV4006,2024-04-01T13:25:15,IT1996,Packing Tape 48mm,PT-48-CLR,PT202404A,120,rolls,inbound,,,AIS-2G,Aisle 2G,EMP253,Karen Simmons,PO-9030,replenishment,Arrived earlier than scheduled
+MV4007,2024-04-01T14:09:18,IT1592,Poly Bag 20x30cm,PB-20X30,,-200,pieces,outbound,BIN-2K,Bin 2K,,,EMP202,Luisa Romero,SO-4481,picking,"Order partial, backorder remains"
+MV4008,2024-04-01T14:51:29,IT1435,Plastic Crate Blue,PCR-BLU-104,B23014,-25,pieces,outbound,BIN-33B,Bin 33B,,,EMP267,Sandeep Kumar,SO-4482,picking,Customer urgent
+MV4009,2024-04-01T15:13:44,IT1419,Office Paper A4,OPA4-500,OP202403,60,boxes,inbound,,,AIS-4D,Aisle 4D,EMP299,Paul J. Beck,PO-9031,replenishment,
+MV4010,2024-04-01T15:47:58,IT1205,LED Bulb E27,LEDB-E27-25W,L20240401,-10,boxes,outbound,AIS-1A,Aisle 1A,,,EMP253,Karen Simmons,SO-4482,picking,
+MV4011,2024-04-02T08:14:20,IT1270,Steel Bolt M12,SB-M12-100,SB202403A,100,boxes,inbound,,,AIS-7E,Aisle 7E,EMP286,Lily Wu,PO-9032,replenishment,Received with inspection
+MV4012,2024-04-02T09:30:41,IT1338,Wire Harness 4m,WH-4M-002,WH202404A,-12,pieces,outbound,AIS-8F,Aisle 8F,,,EMP202,Luisa Romero,SO-4486,picking,
+MV4013,2024-04-02T10:18:34,IT1270,Steel Bolt M12,SB-M12-100,SB202403A,-50,boxes,outbound,AIS-7E,Aisle 7E,,,EMP253,Karen Simmons,SO-4487,picking,Large order shipment
+MV4014,2024-04-02T10:59:20,IT1550,Aluminum Tube 1m,ALT-1000-09,,30,pieces,inbound,,,AIS-7D,Aisle 7D,EMP299,Paul J. Beck,PO-9034,replenishment,
+MV4015,2024-04-02T11:45:38,IT1419,Office Paper A4,OPA4-500,OP202403,-25,boxes,outbound,AIS-4D,Aisle 4D,,,EMP286,Lily Wu,SO-4488,picking,
+MV4016,2024-04-02T12:21:16,IT1483,Cardboard Pallet,CPAL-010,,-1,pallets,outbound,DOCK-02,Receiving Dock 2,,,EMP253,Karen Simmons,SO-4489,picking,Damaged during loading
+MV4017,2024-04-02T13:03:42,IT1671,Rubber Washer 10mm,RW-10MM,RW20240312,50,boxes,return,,,BIN-12C,Bin 12C,EMP202,Luisa Romero,RTN-1120,customer return,Return from SO-4479
+MV4018,2024-04-02T13:45:55,IT1338,Wire Harness 4m,WH-4M-002,WH202404A,12,pieces,return,,,AIS-8F,Aisle 8F,EMP267,Sandeep Kumar,RTN-1121,customer return,
+MV4019,2024-04-02T14:28:08,IT1592,Poly Bag 20x30cm,PB-20X30,,300,pieces,inbound,,,BIN-2K,Bin 2K,EMP286,Lily Wu,PO-9035,replenishment,Bulk restock
+MV4020,2024-04-02T15:12:41,IT1996,Packing Tape 48mm,PT-48-CLR,PT202404A,-12,rolls,outbound,AIS-2G,Aisle 2G,,,EMP299,Paul J. Beck,SO-4492,picking,
+MV4021,2024-04-02T15:50:03,IT1435,Plastic Crate Blue,PCR-BLU-104,B23014,30,pieces,adjustment,BIN-33B,Bin 33B,,,EMP286,Lily Wu,ADJ-3301,cycle count,Stock count gain
+MV4022,2024-04-03T08:05:01,IT1671,Rubber Washer 10mm,RW-10MM,RW20240312,-5,boxes,adjustment,BIN-12C,Bin 12C,,,EMP267,Sandeep Kumar,ADJ-1204,damage,Boxes damaged by water
+MV4023,2024-04-03T08:58:26,IT1270,Steel Bolt M12,SB-M12-100,SB202403A,25,boxes,adjustment,AIS-7E,Aisle 7E,,,EMP202,Luisa Romero,ADJ-7770,cycle count,
+MV4024,2024-04-03T09:32:13,IT1419,Office Paper A4,OPA4-500,OP202403,10,boxes,return,,,AIS-4D,Aisle 4D,EMP253,Karen Simmons,RTN-1122,customer return,
+MV4025,2024-04-03T10:17:47,IT1205,LED Bulb E27,LEDB-E27-25W,L20240401,10,boxes,adjustment,AIS-1A,Aisle 1A,,,EMP299,Paul J. Beck,ADJ-5566,cycle count,Inventory correction
+MV4026,2024-04-03T10:48:23,IT1550,Aluminum Tube 1m,ALT-1000-09,,-2,pieces,adjustment,AIS-7D,Aisle 7D,,,EMP253,Karen Simmons,ADJ-8880,damage,Bent during handling
+MV4027,2024-04-03T11:29:08,IT1483,Cardboard Pallet,CPAL-010,,2,pallets,adjustment,DOCK-02,Receiving Dock 2,,,EMP286,Lily Wu,ADJ-9991,cycle count,
+MV4028,2024-04-03T12:15:41,IT1592,Poly Bag 20x30cm,PB-20X30,,-100,pieces,outbound,BIN-2K,Bin 2K,,,EMP299,Paul J. Beck,SO-4497,picking,
+MV4029,2024-04-03T13:01:13,IT1419,Office Paper A4,OPA4-500,OP202403,15,boxes,inbound,,,AIS-4D,Aisle 4D,EMP286,Lily Wu,PO-9038,replenishment,
+MV4030,2024-04-03T13:46:02,IT1671,Rubber Washer 10mm,RW-10MM,RW20240312,20,boxes,transfer,BIN-12C,Bin 12C,AIS-7E,Aisle 7E,EMP202,Luisa Romero,TO-4012,replenishment,
+MV4031,2024-04-03T14:22:17,IT1270,Steel Bolt M12,SB-M12-100,SB202403A,-20,boxes,transfer,AIS-7E,Aisle 7E,BIN-12C,Bin 12C,EMP267,Sandeep Kumar,TO-4012,replenishment,Balancing stock
+MV4032,2024-04-03T15:07:44,IT1205,LED Bulb E27,LEDB-E27-25W,L20240401,8,boxes,return,,,AIS-1A,Aisle 1A,EMP253,Karen Simmons,RTN-1131,customer return,Customer returned unopened
+MV4033,2024-04-03T15:48:29,IT1338,Wire Harness 4m,WH-4M-002,WH202404A,7,pieces,return,,,AIS-8F,Aisle 8F,EMP286,Lily Wu,RTN-1132,customer return,
+MV4034,2024-04-04T08:28:07,IT1483,Cardboard Pallet,CPAL-010,,-1,pallets,adjustment,DOCK-02,Receiving Dock 2,,,EMP267,Sandeep Kumar,ADJ-1112,damage,Pallet breakage
+MV4035,2024-04-04T09:16:55,IT1592,Poly Bag 20x30cm,PB-20X30,,60,pieces,adjustment,BIN-2K,Bin 2K,,,EMP299,Paul J. Beck,ADJ-4022,cycle count,Found extra
+MV4036,2024-04-04T10:04:31,IT1435,Plastic Crate Blue,PCR-BLU-104,B23014,-10,pieces,transfer,BIN-33B,Bin 33B,AIS-2G,Aisle 2G,EMP202,Luisa Romero,TO-4017,replenishment,
+MV4037,2024-04-04T10:42:57,IT1996,Packing Tape 48mm,PT-48-CLR,PT202404A,10,rolls,transfer,AIS-2G,Aisle 2G,BIN-33B,Bin 33B,EMP286,Lily Wu,TO-4017,replenishment,Moved for better access
+MV4038,2024-04-04T11:28:16,IT1550,Aluminum Tube 1m,ALT-1000-09,,5,pieces,transfer,AIS-7D,Aisle 7D,DOCK-02,Receiving Dock 2,EMP253,Karen Simmons,TO-4018,replenishment,
+MV4039,2024-04-04T12:12:31,IT1483,Cardboard Pallet,CPAL-010,,-2,pallets,transfer,DOCK-02,Receiving Dock 2,AIS-7D,Aisle 7D,EMP202,Luisa Romero,TO-4018,replenishment,
+MV4040,2024-04-04T12:53:24,IT1205,LED Bulb E27,LEDB-E27-25W,L20240401,-5,boxes,adjustment,AIS-1A,Aisle 1A,,,EMP267,Sandeep Kumar,ADJ-9900,damage,Broken bulbs
+MV4041,2024-04-04T13:28:21,IT1338,Wire Harness 4m,WH-4M-002,WH202404A,-1,pieces,adjustment,AIS-8F,Aisle 8F,,,EMP299,Paul J. Beck,ADJ-2233,damage,Cut during handling
+MV4042,2024-04-04T14:11:12,IT1419,Office Paper A4,OPA4-500,OP202403,-5,boxes,adjustment,AIS-4D,Aisle 4D,,,EMP286,Lily Wu,ADJ-5567,damage,Water damage
+MV4043,2024-04-04T14:56:39,IT1996,Packing Tape 48mm,PT-48-CLR,PT202404A,8,rolls,return,,,AIS-2G,Aisle 2G,EMP253,Karen Simmons,RTN-1133,customer return,
+MV4044,2024-04-04T15:38:12,IT1435,Plastic Crate Blue,PCR-BLU-104,B23014,-7,pieces,adjustment,BIN-33B,Bin 33B,,,EMP202,Luisa Romero,ADJ-9901,damage,Dropped in aisle
+MV4045,2024-04-05T08:13:15,IT1592,Poly Bag 20x30cm,PB-20X30,,150,pieces,inbound,,,BIN-2K,Bin 2K,EMP286,Lily Wu,PO-9043,replenishment,
+MV4046,2024-04-05T08:49:27,IT1270,Steel Bolt M12,SB-M12-100,SB202403A,10,boxes,return,,,AIS-7E,Aisle 7E,EMP299,Paul J. Beck,RTN-1134,customer return,Returned after project cancellation
+MV4047,2024-04-05T09:32:58,IT1550,Aluminum Tube 1m,ALT-1000-09,,7,pieces,return,,,AIS-7D,Aisle 7D,EMP267,Sandeep Kumar,RTN-1135,customer return,
+MV4048,2024-04-05T10:17:21,IT1205,LED Bulb E27,LEDB-E27-25W,L20240401,12,boxes,inbound,,,AIS-1A,Aisle 1A,EMP253,Karen Simmons,PO-9044,replenishment,
+MV4049,2024-04-05T11:01:03,IT1483,Cardboard Pallet,CPAL-010,,1,pallets,return,,,DOCK-02,Receiving Dock 2,EMP202,Luisa Romero,RTN-1136,customer return,
+MV4050,2024-04-05T11:44:55,IT1996,Packing Tape 48mm,PT-48-CLR,PT202404A,18,rolls,inbound,,,AIS-2G,Aisle 2G,EMP286,Lily Wu,PO-9045,replenishment,
